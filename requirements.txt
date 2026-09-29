@@ -1,0 +1,6 @@
+requests
+pyjokes
+pyttsx3
+SpeechRecognition
+wikipedia
+PyAudio

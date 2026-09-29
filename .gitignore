@@ -1,0 +1,15 @@
+assistant_notes.json
+to_do_list.txt
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+*.key
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+code.py
+F1_stats.py
